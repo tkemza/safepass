@@ -82,6 +82,6 @@ To start using `SafePass`, follow these simple steps:
  Any issues will be fixed in upcoming `version 2.0`
 
 -----
-# GLP-3.0 LICENSE
+# GPL-3.0 LICENSE
 
-`GLP-3.0 LICENSE` (c) 2024 `tkemza`
+`GPL-3.0 LICENSE` (c) 2024 `tkemza`
