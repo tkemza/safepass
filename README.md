@@ -31,7 +31,7 @@ To start using `SafePass`, follow these simple steps:
 
 1. **Clone the Repository**:
     ```
-    git clone https://github.com/yourusername/safepass.git
+    git clone https://github.com/tkemza/safepass.git
     cd safepass
     ```
 
